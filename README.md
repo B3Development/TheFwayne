@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlemerDN
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning discord.py
 - 📫 How to reach me https://discord.gg/XHfbzSXV6G or blemerdn@gmail.com
 
 <!---
