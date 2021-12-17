@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BlemerDN
+- 👋 Hi, I’m @B3Development
 - 🌱 I’m currently learning discord.py
-- 📫 How to reach me https://discord.gg/XHfbzSXV6G or blemerdn@gmail.com
+- 📫 How to reach me https://discord.gg/X3EpsNxrcJ or blemerb3@gmail.com
 
 <!---
 BlemerDN/BlemerDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
